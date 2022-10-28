@@ -1,4 +1,5 @@
 #find area of a tring base=10,height=20
+@abcd
 base=10
 height=20
 area=(1/2)*base*height
